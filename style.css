@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.picture {
+    border-radius:30%;
+    border: solid red;
+    padding: 1%;
+    
+}
+.h3{
+    border:solid red;
+    padding: 10px;
+}
+
+header img{
+    width: 300px;
+}
